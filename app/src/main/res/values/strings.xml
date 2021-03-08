@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_australia">Canberra is the capital of Austria.</string>
+    <string name="question_franceUK">The UK is about the same size as France.</string>
+    <string name="question_mexico">Mexico is the south of the equator.</string>
+    <string name="question_brazil">Brazil is the largest country in South America.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="prev_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
